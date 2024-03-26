@@ -1,4 +1,4 @@
-## zkRace Token
+## W3Forge ERC20 Token
 
 This is a plain ERC20 token with 18 decimals based on OpenZeppelin contracts v5
 
